@@ -1,0 +1,17 @@
+Way of writting javascript
+1.Inline(------)
+2.Internal
+3.External
+
+
+javascript Variable
+
+x=5
+y=10
+
+
+
+Home Task===>
+
+1.Variable
+2.Operator
